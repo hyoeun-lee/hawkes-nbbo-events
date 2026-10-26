@@ -2,7 +2,7 @@
 
 Code and derived data for *Event definition and the branching ratio: Hawkes estimates of
 price-change clustering in the consolidated quote feed* (Hyoeun Lee, University of Illinois
-Urbana-Champaign). Archived releases: Zenodo, https://doi.org/[to be assigned at the first release].
+Urbana-Champaign). Archived releases: Zenodo, https://doi.org/10.5281/zenodo.23675006 (concept DOI, resolves to the latest version).
 Cite the paper and this repository (`CITATION.cff`).
 
 The quote and trade data are the NYSE Trade and Quote database (Millisecond TAQ), accessed through

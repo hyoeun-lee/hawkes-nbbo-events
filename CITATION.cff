@@ -8,6 +8,10 @@ authors:
     affiliation: "Department of Statistics, University of Illinois Urbana-Champaign"
     orcid: "https://orcid.org/0000-0001-7703-6288"
 repository-code: "https://github.com/hyoeun-lee/hawkes-nbbo-events"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23675006
+    description: "Zenodo concept DOI (all versions)"
 license: MIT
 version: "0.1.0"
 date-released: "2026-10-26"
