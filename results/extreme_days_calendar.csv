@@ -1,0 +1,76 @@
+date,sym,cls,event_date,note
+20161109,ALL,election,20161108,first session after the presidential election
+20161110,ALL,election,20161108,second session after the election
+20161214,ALL,fomc,20161214,FOMC decision (rate increase)
+20170201,ALL,fomc,20170201,FOMC decision
+20170315,ALL,fomc,20170315,FOMC decision (rate increase)
+20170503,ALL,fomc,20170503,FOMC decision
+20170614,ALL,fomc,20170614,FOMC decision (rate increase)
+20170726,ALL,fomc,20170726,FOMC decision
+20170920,ALL,fomc,20170920,FOMC decision (balance-sheet runoff announced)
+20171101,ALL,fomc,20171101,FOMC decision
+20171213,ALL,fomc,20171213,FOMC decision (rate increase)
+20161216,ALL,index,20161216,S&P quarterly rebalance and quadruple witching
+20170317,ALL,index,20170317,S&P quarterly rebalance and quadruple witching
+20170616,ALL,index,20170616,S&P quarterly rebalance and quadruple witching
+20170915,ALL,index,20170915,S&P quarterly rebalance and quadruple witching
+20171215,ALL,index,20171215,S&P quarterly rebalance and quadruple witching
+20170623,ALL,index,20170623,Russell reconstitution
+20161130,ALL,index,20161130,MSCI semi-annual index review effective at the close
+20170531,ALL,index,20170531,MSCI semi-annual index review effective at the close
+20171130,ALL,index,20171130,MSCI semi-annual index review effective at the close
+20170126,INTC,earnings_report,20170126,Q4 2016 results after the close
+20170127,INTC,earnings,20170126,reaction day
+20170427,INTC,earnings_report,20170427,Q1 2017 results after the close
+20170428,INTC,earnings,20170427,reaction day
+20170727,INTC,earnings_report,20170727,Q2 2017 results after the close
+20170728,INTC,earnings,20170727,reaction day
+20171026,INTC,earnings_report,20171026,Q3 2017 results after the close
+20171027,INTC,earnings,20171026,reaction day
+20161221,MU,earnings_report,20161221,FQ1 2017 results after the close
+20161222,MU,earnings,20161221,reaction day
+20170323,MU,earnings_report,20170323,FQ2 2017 results after the close
+20170324,MU,earnings,20170323,reaction day
+20170629,MU,earnings_report,20170629,FQ3 2017 results after the close
+20170630,MU,earnings,20170629,reaction day
+20170926,MU,earnings_report,20170926,FQ4 2017 results after the close
+20170927,MU,earnings,20170926,reaction day
+20171219,MU,earnings_report,20171219,FQ1 2018 results after the close
+20171220,MU,earnings,20171219,reaction day
+20170207,MDLZ,earnings_report,20170207,Q4 2016 results after the close
+20170208,MDLZ,earnings,20170207,reaction day
+20170502,MDLZ,earnings_report,20170502,Q1 2017 results after the close
+20170503,MDLZ,earnings,20170502,reaction day
+20170802,MDLZ,earnings_report,20170802,Q2 2017 results after the close
+20170803,MDLZ,earnings,20170802,reaction day
+20171030,MDLZ,earnings_report,20171030,Q3 2017 results after the close
+20171031,MDLZ,earnings,20171030,reaction day
+20170113,BAC,earnings,20170113,Q4 2016 results before the open
+20170418,BAC,earnings,20170418,Q1 2017 results before the open
+20170718,BAC,earnings,20170718,Q2 2017 results before the open
+20171013,BAC,earnings,20171013,Q3 2017 results before the open
+20170113,WFC,earnings,20170113,Q4 2016 results before the open
+20170413,WFC,earnings,20170413,Q1 2017 results before the open
+20170714,WFC,earnings,20170714,Q2 2017 results before the open
+20171013,WFC,earnings,20171013,Q3 2017 results before the open
+20170125,T,earnings_report,20170125,Q4 2016 results after the close
+20170126,T,earnings,20170125,reaction day
+20170425,T,earnings_report,20170425,Q1 2017 results after the close
+20170426,T,earnings,20170425,reaction day
+20170725,T,earnings_report,20170725,Q2 2017 results after the close
+20170726,T,earnings,20170725,reaction day
+20171024,T,earnings_report,20171024,Q3 2017 results after the close
+20171025,T,earnings,20171024,reaction day
+20161116,TGT,earnings,20161116,Q3 2016 results before the open
+20170228,TGT,earnings,20170228,Q4 2016 results before the open
+20170517,TGT,earnings,20170517,Q1 2017 results before the open
+20170816,TGT,earnings,20170816,Q2 2017 results before the open
+20171115,TGT,earnings,20171115,Q3 2017 results before the open
+20170209,ATVI,earnings_report,20170209,Q4 2016 results after the close
+20170210,ATVI,earnings,20170209,reaction day
+20170504,ATVI,earnings_report,20170504,Q1 2017 results after the close
+20170505,ATVI,earnings,20170504,reaction day
+20170803,ATVI,earnings_report,20170803,Q2 2017 results after the close
+20170804,ATVI,earnings,20170803,reaction day
+20171102,ATVI,earnings_report,20171102,Q3 2017 results after the close
+20171103,ATVI,earnings,20171102,reaction day

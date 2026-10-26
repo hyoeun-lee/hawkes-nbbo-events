@@ -1,0 +1,2 @@
+sym,month,definition,K,kernel,baseline,starts,delta,bin_minutes,n_days,n_events,memory_s,excitation_per_scale,effective_excitation,self_per_scale,cross_per_scale,branching_ratio,loglik,aic,bic,ks_up,ks_down,minutes
+BAC,201711,E1m,3,symmetric,shared,full,0.002,60.0,20,15649,0.009608; 0.1078; 30.55,0.0566; 0.0425; 0.3322,0.0460; 0.0418; 0.3322,0.0445; 0.0078; 0.0847,0.0121; 0.0347; 0.2475,0.4313,-68410.14,137078.28,138066.18,0.0155,0.0265,2.11

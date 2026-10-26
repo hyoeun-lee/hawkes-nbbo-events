@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+numba  # optional: speeds up fitting about 70x in the inner loop
+wrds
+pytest

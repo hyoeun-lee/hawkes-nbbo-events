@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite the paper and the repository."
+title: "hawkes-nbbo-events: code and derived data for 'Event definition and the branching ratio: Hawkes estimates of price-change clustering in the consolidated quote feed'"
+type: software
+authors:
+  - family-names: Lee
+    given-names: Hyoeun
+    affiliation: "Department of Statistics, University of Illinois Urbana-Champaign"
+repository-code: "https://github.com/hyoeun-lee/hawkes-nbbo-events"
+license: MIT
+version: "0.1.0"
+date-released: "2026-10-26"
+keywords:
+  - Hawkes process
+  - branching ratio
+  - consolidated NBBO
+  - locked markets
+  - TAQ
+  - event definition
+  - refractory period
+preferred-citation:
+  type: article
+  title: "Event definition and the branching ratio: Hawkes estimates of price-change clustering in the consolidated quote feed"
+  authors:
+    - family-names: Lee
+      given-names: Hyoeun
+  journal: "Journal of Financial Econometrics"
+  year: 2026
+  notes: "Submitted."
