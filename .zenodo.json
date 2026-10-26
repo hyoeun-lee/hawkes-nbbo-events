@@ -1,0 +1,24 @@
+{
+  "title": "hawkes-nbbo-events: code and derived data for 'Event definition and the branching ratio: Hawkes estimates of price-change clustering in the consolidated quote feed'",
+  "upload_type": "software",
+  "description": "Code and derived data for the paper 'Event definition and the branching ratio: Hawkes estimates of price-change clustering in the consolidated quote feed' (Hyoeun Lee, University of Illinois Urbana-Champaign). The package holds the WRDS query scripts that extract the quote and trade data, the code that builds the event series from NBBO changes and fits the gated bivariate Hawkes model, and the derived data (fitted parameters for every stock-month, bootstrap and simulation outputs) from which every table and figure of the paper is rebuilt. The TAQ data themselves are licensed from NYSE through WRDS and are not included.",
+  "creators": [
+    {
+      "name": "Lee, Hyoeun",
+      "affiliation": "Department of Statistics, University of Illinois Urbana-Champaign",
+      "orcid": "0000-0001-7703-6288"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Hawkes process",
+    "branching ratio",
+    "consolidated NBBO",
+    "locked markets",
+    "TAQ",
+    "event definition",
+    "refractory period",
+    "market microstructure"
+  ],
+  "notes": "Code under the MIT licence; derived data in results/ under Creative Commons Attribution 4.0 (CC BY 4.0)."
+}

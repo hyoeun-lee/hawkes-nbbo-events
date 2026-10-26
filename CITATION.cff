@@ -6,6 +6,7 @@ authors:
   - family-names: Lee
     given-names: Hyoeun
     affiliation: "Department of Statistics, University of Illinois Urbana-Champaign"
+    orcid: "https://orcid.org/0000-0001-7703-6288"
 repository-code: "https://github.com/hyoeun-lee/hawkes-nbbo-events"
 license: MIT
 version: "0.1.0"
@@ -24,6 +25,7 @@ preferred-citation:
   authors:
     - family-names: Lee
       given-names: Hyoeun
+      orcid: "https://orcid.org/0000-0001-7703-6288"
   journal: "Journal of Financial Econometrics"
   year: 2026
   notes: "Submitted."

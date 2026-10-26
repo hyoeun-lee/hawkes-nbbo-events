@@ -1,8 +1,8 @@
 """Export the replication package: copy the public subset of this repository into a target directory
 (the working tree of the public repository), deleting what is there first.
 
-Included: the package, tests, scripts, sql, results, REPLICATION.md (as README.md), requirements.txt
-and the figure files of the paper. Excluded: docs/ (manuscript, notes, reviews), the development
+Included: the package, tests, scripts, sql, results, REPLICATION.md (as README.md), requirements.txt,
+CITATION.cff, LICENSE and .zenodo.json. Excluded: docs/ (manuscript, notes, reviews), the development
 README, caches and anything not on the list.
 
     python scripts/export_replication.py /path/to/public-repo [--dry-run]
@@ -14,7 +14,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-INCLUDE = ["hawkes_taq", "tests", "scripts", "sql", "results", "requirements.txt", "CITATION.cff", "LICENSE"]
+INCLUDE = ["hawkes_taq", "tests", "scripts", "sql", "results", "requirements.txt", "CITATION.cff", "LICENSE", ".zenodo.json"]
 RENAME = {"REPLICATION.md": "README.md"}
 EXCLUDE_DIRS = {"__pycache__", ".pytest_cache", ".ipynb_checkpoints"}
 EXCLUDE_SUFFIXES = {".pyc", ".log"}
